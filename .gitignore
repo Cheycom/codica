@@ -9,3 +9,6 @@ venv/
 
 # Ignorar archivos de entorno
 .env
+
+#ingorar archivo de pruba
+archivo prueba ignorar.md
